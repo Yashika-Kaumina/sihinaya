@@ -2,8 +2,6 @@
 
 > *"සිහිනයක් තරම් මෘදු වෙබ් අඩවියක්..."*
 
-![Sihinaya Preview](https://via.placeholder.com/800x400?text=Sihinaya+Preview)
-
 ---
 
 ## 🌙 විස්තරය | Description
