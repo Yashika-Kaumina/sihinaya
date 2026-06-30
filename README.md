@@ -37,3 +37,18 @@
 ---
 
 ## 📁 ව්‍යාපෘති ව්‍යුහය | Project Structure
+
+
+---
+
+## 🚀 සජීවී සබැඳිය | Live Demo
+
+🔗 **[සිහිනය බලන්න - Live Demo](https://yashika-kaumina.github.io/sihinaya/)**
+
+---
+
+## 💻 දේශීයව ධාවනය කරන හැටි | How to Run Locally
+
+1. **Repository එක Clone කරන්න**
+   ```bash
+   git clone https://github.com/Yashika-Kaumina/sihinaya.git
